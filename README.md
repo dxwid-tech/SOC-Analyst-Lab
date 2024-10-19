@@ -7,11 +7,11 @@ In this project, the goal was to create a Security Operations Center (SOC) envir
 ### Skills Learned
 
 - Practical experience deploying a SIEM platform.
-- Detecting brute-force attacks on SSH and RDP services.
+- Detecting brute-force attacks through SSH and RDP.
 - Experience simulating attacks using Kali Linux, including RDP attacks on target machines.
-- Ability to analyze logs, create custom dashboards, and set up security alerts.
+- Analysing logs, creating custom dashboards, and setting up security alerts.
 - Setting up a C2 platform and creating payloads.
-- Experience with using an OS ticketing system for tracking and responding to security events.
+- Experience with using an OS ticketing system for tracking elastic alerts.
 
 ### Tools Used
 
