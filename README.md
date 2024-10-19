@@ -25,35 +25,35 @@ In this project, the goal was to create a Security Operations Center (SOC) envir
 ## Key Steps
 These are the most important steps and results that I collected throughout this projects.
 
-Ref 1: Vultr Virtual Machines
+#### Ref 1: Vultr Virtual Machines
 
 ![vultr](https://github.com/user-attachments/assets/d6e04002-b114-4600-a8f0-a04d05665c95)
 
 
 
 
-Ref 2: Vultr Firewall Settings
+#### Ref 2: Vultr Firewall Settings
 
 <img width="452" alt="Picture1" src="https://github.com/user-attachments/assets/0e5e6d2a-ef83-401d-91a5-9a7ea943bad2">
 
 
 
 
-Ref 3: Vultr VPN 2.0
+#### Ref 3: Vultr VPN 2.0
 
 <img width="452" alt="Picture2" src="https://github.com/user-attachments/assets/ef63912c-c6a4-402c-8171-110103149bf6">
 
 
 
 
-Ref 4: VirtualBox Kali
+#### Ref 4: VirtualBox Kali
 
 <img width="452" alt="Picture17" src="https://github.com/user-attachments/assets/36872d28-1968-4d22-8e32-1295571ebb4d">
 
 
 
 
-Ref 5: Sysmon on Windows Target 
+#### Ref 5: Sysmon on Windows Target 
 
 ![Picture20](https://github.com/user-attachments/assets/bd8c85ef-7c3d-4ece-8031-2461559146fc)
 
@@ -61,14 +61,14 @@ Ref 5: Sysmon on Windows Target
 
 
 
-Ref 6: Elastic Agent installed
+#### Ref 6: Elastic Agent installed
 
 <img width="452" alt="Picture19" src="https://github.com/user-attachments/assets/027cb3d4-ce30-458e-ac54-f55b5cdfe9fc">
 
 
 
 
-Ref 7: Elastic Activity
+#### Ref 7: Elastic Activity
 
 <img width="452" alt="Picture21" src="https://github.com/user-attachments/assets/8d75f348-9c4e-4328-911c-ee5a1f37e441">
 
@@ -76,7 +76,7 @@ Ref 7: Elastic Activity
 
 
 
-Ref 8: Elastic/Kibana Dashboard
+#### Ref 8: Elastic/Kibana Dashboard
 
 ![Picture4](https://github.com/user-attachments/assets/829011fd-4a24-4db5-9c39-845d5a8d36db)
 
@@ -84,7 +84,7 @@ Ref 8: Elastic/Kibana Dashboard
 
 
 
-Ref 9: Elastic Alerts
+#### Ref 9: Elastic Alerts
 
 <img width="452" alt="Picture25" src="https://github.com/user-attachments/assets/556a160a-c821-478b-beb2-ec53e53ce44e">
 
@@ -92,7 +92,7 @@ Ref 9: Elastic Alerts
 
 
 
-Ref 10: Kali RDP 
+#### Ref 10: Kali RDP 
 
 ![Picture16](https://github.com/user-attachments/assets/d85cde4b-54b6-441d-bab1-bbfdce8b6e16)
 
@@ -100,7 +100,7 @@ Ref 10: Kali RDP
 
 
 
-Ref 11: Kali Brute Force
+#### Ref 11: Kali Brute Force
 
 ![Picture18](https://github.com/user-attachments/assets/8c407d9b-9797-48dd-b250-71d1c555edfa)
 
@@ -108,7 +108,7 @@ Ref 11: Kali Brute Force
 
 
 
-Ref 12: Mythic SetUp
+#### Ref 12: Mythic SetUp
 
 ![Picture22](https://github.com/user-attachments/assets/67bb565d-8d34-4708-aef2-2fc4e98c2bee)
 
@@ -116,7 +116,7 @@ Ref 12: Mythic SetUp
 
 
 
-Ref 13: Mythic Setup
+#### Ref 13: Mythic Setup
 
 <img width="452" alt="Picture24" src="https://github.com/user-attachments/assets/631a189a-5257-4366-98bc-e43ba5cb2a16">
 
@@ -124,7 +124,7 @@ Ref 13: Mythic Setup
 
 
 
-Ref 14: Mythic Payload 
+#### Ref 14: Mythic Payload 
 
 <img width="452" alt="Picture7" src="https://github.com/user-attachments/assets/c94cd8a2-9d3c-44f1-a084-f1c8ab740af6">
 
@@ -132,7 +132,7 @@ Ref 14: Mythic Payload
 
 
 
-Ref 15: Elastic/Kibana Dashboards
+#### Ref 15: Elastic/Kibana Dashboards
 
 ![Picture10](https://github.com/user-attachments/assets/0c338cac-cafb-4128-86c6-f0f42a450aec)
 
@@ -142,7 +142,7 @@ Ref 15: Elastic/Kibana Dashboards
 
 
 
-Ref 16: OsTicket Setup
+#### Ref 16: OsTicket Setup
 
 <img width="452" alt="Picture8" src="https://github.com/user-attachments/assets/d9ca8f6a-d83a-4b2b-b0f7-524c24fb2f0e">
 
@@ -157,7 +157,7 @@ Ref 16: OsTicket Setup
 
 
 
-Ref 17: OsTicket Integration
+#### Ref 17: OsTicket Integration
 
 <img width="452" alt="Picture23" src="https://github.com/user-attachments/assets/730f72d0-d35c-4c0f-b29a-b0aa703058b4">
 
@@ -165,7 +165,7 @@ Ref 17: OsTicket Integration
 
 
 
-Ref 18: IP investigation
+#### Ref 18: IP investigation
 
 ![Picture12](https://github.com/user-attachments/assets/2b6c3f19-b57a-4917-b216-afb286e699c8)
 
